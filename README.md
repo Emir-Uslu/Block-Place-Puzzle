@@ -43,31 +43,31 @@ Shape snapping logic
 Level completion detection                                                                                                                     
 **Game Systems**                                                                                                                 
 GameManager system                                                                                                            
-Timer system (Hard Mode)
-Level control system
-Win / Fail system
-**User Interface**
-Main Menu (Easy / Classic / Hard)
-Pause Menu (Resume / Quit / Sound)
-Win Panel
-Fail Panel
-Timer display
-**Audio**
-Button click sound
-Shape placement sound
-Win sound
-Fail sound
-Background music
+Timer system (Hard Mode)                                                                                                        
+Level control system                                                                                                          
+Win / Fail system                                                                                                                 
+**User Interface**                                                                                                               
+Main Menu (Easy / Classic / Hard)                                                                                                    
+Pause Menu (Resume / Quit / Sound)                                                                                
+Win Panel                                                                                                 
+Fail Panel                                                                                                           
+Timer display                                                                                                               
+**Audio**                                                                                               
+Button click sound                                                                                                 
+Shape placement sound                                                                                                            
+Win sound                                                                                                                             
+Fail sound                                                                                                            
+Background music                                                                                             
 
-What I Learned
+What I Learned                                                                                                                               
 
-This project helped me improve my skills in:
+This project helped me improve my skills in:                                                         
 
-I added sound to a game for the first time.
-Drag and drop mechanics in Unity
-Grid-based placement systems
-Game logic and level completion systems
-UI design and panel management
-Scene management
+I added sound to a game for the first time.                                       
+Drag and drop mechanics in Unity                                       
+Grid-based placement systems                                           
+Game logic and level completion systems                                      
+UI design and panel management                                             
+Scene management                                                                                                                    
 
-I also learned how to create a simple but complete mobile puzzle game.
+I also learned how to create a simple but complete mobile puzzle game.                                   
